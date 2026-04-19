@@ -4,7 +4,6 @@ Agentic AI Hackathon 2026
 ## Quick Start
 ```
 npm install
-cp .env.example .env
 npm run dev
 ```
 
